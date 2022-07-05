@@ -1,0 +1,13 @@
+body{
+    background: rgb(134, 66, 163)
+}
+
+.app{
+    background-color: rgb(88, 30, 176);
+    width: 60%;
+    margin: 5rem auto;
+    border-radius: 70px;
+    text-align: center;
+    padding: 2rem;
+    color: white;
+}
